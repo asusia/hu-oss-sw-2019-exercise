@@ -18,8 +18,8 @@
 
 ## Preview
 <p align="center">
-	<img src="https://nimb.ws/l5SCFZ"></img>
-	<img src="https://nimb.ws/efQqRL"></img>
+	<img src="https://s.nimbusweb.me/attachment/2960100/dn3stype386kat9wc323/Z5gMvwbFg9czRm2D/screenshot-localhost-8000-2019.06.08-23-34-56.png" width="40%"></img>
+	<img src="https://s.nimbusweb.me/attachment/2960105/987fc7l9emr6inkd7kre/fJrDbhsLbhsPiWN4/screenshot-localhost-8000-2019.06.08-23-41-12.png" width="40%"></img>
 </p>
 
 ## Contributors
